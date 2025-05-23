@@ -14,7 +14,7 @@ Bu proje Işıksoft Yazılım Frontend Developer başvurusu üzerine hazırlanm�
 
 Projede, paylaşılan figma tasarımı üzerinden kodlama yapılmış, istenen endpoint isteği atılıp dönen sonuç görselleştirilmiştir. Sitede tasarım gereği yalnızca /all-products sayfası fonksiyonel olarak bağlanmış olup. Diğer sayfalardan da buraya ulaşılabilmesi adına yardımcılar eklenmiştir.
 
-## Projeyi canlı olarak sitesinden inceleyebilirsiniz.
+## Projeyi canlı olarak https://isiksoft-devcase-76p4.vercel.app/ sitesinden inceleyebilirsiniz.
 
 ## Projenin Çalıştırılması
 
