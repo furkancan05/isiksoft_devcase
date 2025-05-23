@@ -9,7 +9,6 @@ import {
   RefreshCcw,
   Search,
 } from "lucide-react";
-import { headers } from "next/headers";
 import React, { Suspense } from "react";
 
 type Props = {

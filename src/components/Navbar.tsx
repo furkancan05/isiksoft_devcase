@@ -1,15 +1,10 @@
 import React from "react";
-import { headers } from "next/headers";
 import Link from "next/link";
 import Image from "next/image";
 import { LogOut, Menu, Search, SlidersVertical } from "lucide-react";
-import { AppNavigation } from "../config/AppNavigation.config";
 import Navigation from "./navbar/Navigation";
 
 export default async function Navbar() {
-  const headerList = await headers();
-  const pathname = headerList.get("x-current-path");
-
   return (
     <nav className="hidden w-full max-w-[130px] md:max-w-[345px] bg-white sm:flex flex-col gap-8 px-8 py-4">
       {/* Logo */}
